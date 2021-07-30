@@ -9,7 +9,7 @@ According to the formula I ran, and the screenshot provided: vehicle length, gro
 In our scenario the linear model the slope of the linear model should not be considered zero because the p-value of our linear regression analysis is 5.35 * -11, which is much smaller than our assumed signficance levels of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
+This linear model predicts mpg of MechaCar prototypes effectively due to the absoute value of r. In our scenario we recorded a multiple r-squared of 0.7149 which should be considered strong.
 
 
 ## Summary Statistics on Suspension Coils
