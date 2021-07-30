@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-
+![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D1_lm.PNG)
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 
@@ -13,14 +13,18 @@
 
 
 ## Summary Statistics on Suspension Coils
-
+![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D2_lot_summary.PNG)
+![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D2_total_summary.PNG)
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 
 ## T-Tests on Suspension Coils, 
 
 * Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
-
+![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_total.PNG)
+![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot1.PNG)
+![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot2.PNG)
+![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot3.PNG)
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
 
