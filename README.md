@@ -22,15 +22,25 @@ I provided the total summary as well as the lot summary in the screenshots above
 
 ## T-Tests on Suspension Coils, 
 
-* Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+### Total Summary
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_total.PNG)
+
+
+### Lot 1
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot1.PNG)
+
+### Lot 2
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot2.PNG)
+
+### Lot 3
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot3.PNG)
+
+
+
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
 
-Follow the instructions below to complete Deliverable 4.
+
 
 ## Study Design: MechaCar vs Competition.
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
