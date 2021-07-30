@@ -40,12 +40,6 @@ Our p-value recorded: 0.6072. Assuming our significance level was the common 0.0
 
 Our p-value recorded: 0.04168. Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
-
-Deliverable 4: Design a Study Comparing the MechaCar to the Competition
-Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
-
-
-
 ## Study Design: MechaCar vs Competition.
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 In your description, address the following questions:
