@@ -42,14 +42,16 @@ Our p-value recorded: 0.04168. Assuming our significance level was the common 0.
 
 ## Study Design: MechaCar vs Competition.
 * What metric or metrics are you going to test?
-
+In the changing car market I think it would be great to take a look at cost and fuel efficiency. The car market has seen an explosion in the EV market, so I think cost and fuel efficiency would be great metrics to look at currently.
 
 * What is the null hypothesis or alternative hypothesis?
-
+Are low cost low fuel efficient cars not selling on par with the US EV market? If low cost low fuel efficeint cars are selling on par with the US EV market, then buying an electric car will result in a rise in the EV market. 
+Null: if low cost low fuel efficient cars are not selling on par with the US EV market, then buying an electric car will result in no improvement in the EV market.
+Alternative: if low cost low fuel efficient cars are not selling on par with the US EV market, then buying an electric car will result in improvement in the EV market.
 
 * What statistical test would you use to test the hypothesis? And why?
-
+We can use a correlation analysis to help test the hypothesis. We would be able to see a positive, negative, or no correlation between the types of cars being purchased. We would be able to plot our the data provided and calculate the correlation coefficient.
 
 * What data is needed to run the statistical test?
-
+The data we would need to run the statistical would be car sales by type for the past 10 years, fuel efficeny, market share by type of car within the US, and MSRP by type of car.
 
