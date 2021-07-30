@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D1_lm.PNG)
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
+According to the formula I ran, and the screenshot provided: vehicle length, ground clearance, as well as the intercept are statistically unlikely to provide random amounts of variance to the linear model. These variables in turn have a significant impact. Conversely vehicle weight, spoiler angle, and AWD are likely to provide random amounts of variance to the linear model.
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 
