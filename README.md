@@ -6,10 +6,10 @@
 According to the formula I ran, and the screenshot provided: vehicle length, ground clearance, as well as the intercept are statistically unlikely to provide random amounts of variance to the linear model. These variables in turn have a significant impact. Conversely vehicle weight, spoiler angle, and AWD are likely to provide random amounts of variance to the linear model.
 
 * Is the slope of the linear model considered to be zero? Why or why not?
-In our scenario the linear model the slope of the linear model should not be considered zero because the p-value of our linear regression analysis is 5.35 * -11, which is much smaller than our assumed signficance levels of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
+In our scenario the linear model the slope of the linear model should not be considered zero because the p-value of our linear regression analysis is 5.35 * -11, which is much smaller than our assumed significance levels of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-This linear model predicts mpg of MechaCar prototypes effectively due to the absoute value of r. In our scenario we recorded a multiple r-squared of 0.7149 which should be considered strong.
+This linear model predicts mpg of MechaCar prototypes effectively due to the absolute value of r. In our scenario we recorded a multiple r-squared of 0.7149 which should be considered strong.
 
 
 ## Summary Statistics on Suspension Coils
@@ -45,7 +45,7 @@ Our p-value recorded: 0.04168. Assuming our significance level was the common 0.
 In the changing car market I think it would be great to take a look at cost and fuel efficiency. The car market has seen an explosion in the EV market, so I think cost and fuel efficiency would be great metrics to look at currently.
 
 * What is the null hypothesis or alternative hypothesis?
-Are low cost low fuel efficient cars not selling on par with the US EV market? If low cost low fuel efficeint cars are selling on par with the US EV market, then buying an electric car will result in a rise in the EV market. 
+Are low cost low fuel efficient cars not selling on par with the US EV market? If low cost low fuel efficient cars are selling on par with the US EV market, then buying an electric car will result in a rise in the EV market. 
 Null: if low cost low fuel efficient cars are not selling on par with the US EV market, then buying an electric car will result in no improvement in the EV market.
 Alternative: if low cost low fuel efficient cars are not selling on par with the US EV market, then buying an electric car will result in improvement in the EV market.
 
@@ -53,5 +53,5 @@ Alternative: if low cost low fuel efficient cars are not selling on par with the
 We can use a correlation analysis to help test the hypothesis. We would be able to see a positive, negative, or no correlation between the types of cars being purchased. We would be able to plot our the data provided and calculate the correlation coefficient.
 
 * What data is needed to run the statistical test?
-The data we would need to run the statistical would be car sales by type for the past 10 years, fuel efficeny, market share by type of car within the US, and MSRP by type of car.
+The data we would need to run the statistical would be car sales by type for the past 10 years, fuel efficiency, market share by type of car within the US, and MSRP by type of car.
 
