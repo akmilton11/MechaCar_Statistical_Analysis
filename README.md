@@ -6,7 +6,7 @@
 According to the formula I ran, and the screenshot provided: vehicle length, ground clearance, as well as the intercept are statistically unlikely to provide random amounts of variance to the linear model. These variables in turn have a significant impact. Conversely vehicle weight, spoiler angle, and AWD are likely to provide random amounts of variance to the linear model.
 
 * Is the slope of the linear model considered to be zero? Why or why not?
-
+In our scenario the linear model the slope of the linear model should not be considered zero because the p-value of our linear regression analysis is 5.35 * -11, which is much smaller than our assumed signficance levels of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
