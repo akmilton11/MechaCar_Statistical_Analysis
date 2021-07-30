@@ -24,16 +24,20 @@ I provided the total summary as well as the lot summary in the screenshots above
 
 ### Total Summary
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_total.PNG)
+
 Our p-value recorded: 0.06028. Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
 ### Lot 1
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot1.PNG)
+
 Our p-value recorded: 1.00. Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 ### Lot 2
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot2.PNG)
+
 Our p-value recorded: 0.6072. Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 ### Lot 3
 ![](https://github.com/akmilton11/MechaCar_Statistical_Analysis/blob/main/Images/D3_t_test_lot3.PNG)
+
 Our p-value recorded: 0.04168. Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
 
